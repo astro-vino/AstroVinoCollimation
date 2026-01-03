@@ -6,6 +6,9 @@ This document explains how to *use* the application (what each control does and 
 
 Astro Vino Collimation is a live camera viewer with visual overlays designed to help you center a bright star/feature and judge alignment (collimation) using a **center crosshair** and **concentric circles**.
 
+<img width="1484" height="992" alt="image" src="https://github.com/user-attachments/assets/9b744ed1-fbbc-4c12-87bb-2c04963d0323" />
+
+
 It supports:
 
 - **ZWO ASI cameras**
