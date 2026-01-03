@@ -13,6 +13,8 @@ It supports:
 
 - **ZWO ASI cameras**
 - **Generic webcams** (driver support for camera controls varies by device)
+  
+![IMG_2241](https://github.com/user-attachments/assets/99457859-4f0c-4ce5-b10f-c56dfe3b12bf)
 
 ## Quick start
 
@@ -33,6 +35,7 @@ It supports:
 ### Overlay scaling
 
 Circle radii are defined in **image pixels** and automatically scale to whatever size the image is displayed at.
+![IMG_2239 (1)](https://github.com/user-attachments/assets/898b6170-5c35-4efd-a21d-992a828d1737)
 
 ## Controls reference
 
